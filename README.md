@@ -1,5 +1,5 @@
-<h1 align="center" >🩷 LEE JU YEON 🩷</h1>
-<h4 align="center" >Find my joy</h4>
+<h1 align="center" >LEE JU YEON</h1>
+<h4 align="center" >🩷Find my joy🩷</h4>
 <h3 align="center">☑️Skill</h3>
 <p align="center">
     
