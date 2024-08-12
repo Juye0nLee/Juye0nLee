@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Find+My+Joy+!&nbsp;+I'm+Ju+Yeon+˙ᵕ˙+&nbsp;"/>
 </div>
-
 <h3 align="center">☑️Skill</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
